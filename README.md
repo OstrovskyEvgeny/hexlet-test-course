@@ -1,0 +1,1 @@
+the task on automatic tests on the hexlet platform
